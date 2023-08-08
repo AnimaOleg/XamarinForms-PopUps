@@ -11,7 +11,8 @@ Examples based on [rotogames/Rg.Plugins.Popup](https://github.com/rotorgames/Rg.
 * Install into your PCL project and Client projects.
 * Development NuGet: https://ci.appveyor.com/nuget/rg-plugins-popup-p6l5elugev99 [![Build status](https://ci.appveyor.com/api/projects/status/faktrrb31efbqq3x/branch/develop?svg=true)](https://ci.appveyor.com/project/Kirill/rg-plugins-popup/branch/develop)
 
-![Landing](img/popup-landing.png)
+![popup-landing](https://github.com/AnimaOleg/XamarinForms_PopUps/assets/21308880/f67d0747-8a45-4681-b69d-ec4c04e40b35)
+
 
 ## Support platforms
 
