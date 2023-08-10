@@ -14,6 +14,8 @@ using Xamarin.Forms;
 
 namespace XamarinForms_PopUps
 {
+
+    // LETS BEGIN
     public partial class MainPage : ContentPage
     {
         public MainPage()

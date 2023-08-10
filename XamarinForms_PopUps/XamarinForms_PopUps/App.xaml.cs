@@ -19,6 +19,7 @@ namespace XamarinForms_PopUps
     // https://thatcsharpguy.github.io/post/popups-avanzados-xamarin-forms/
 
 
+    // LETS BEGIN
     public partial class App : Application
     {
         public App()
