@@ -4,6 +4,7 @@ using Xamarin.Forms.Xaml;
 
 namespace XamarinForms_PopUps
 {
+
     // Based on: https://github.com/rotorgames/Rg.Plugins.Popup
     // https://github.com/rotorgames/Rg.Plugins.Popup/wiki
     // mas ejemplos de animaciones: https://csharp.hotexamples.com/es/examples/Rg.Plugins.Popup.Pages/PopupPage/-/php-popuppage-class-examples.html
